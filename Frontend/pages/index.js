@@ -14,7 +14,7 @@ export default function Index() {
       <Body>
         <Section>
           <Content center flex={0.5}>
-            <h1 className={style.Title}>Frontend</h1>
+            <h1 className={style.Title}>Cabecera</h1>
             <BienvenidaSockets />
           </Content>
         </Section>
